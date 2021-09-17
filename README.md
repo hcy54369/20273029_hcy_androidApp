@@ -1,10 +1,9 @@
-# 캡스톤디자인 야간반
+# 20273029 한채윤
 
-## 1주차
+## 1주차 과제
 
-## 2주차
-  - Github 사용법
-
-<img width="300" height="300" src="./png/재롱이.jpeg"></img>
+## 2주차 과제
 
 <img width="" height="" src="./png/Toast.jpg"></img>
+
+## 3주차 과제
